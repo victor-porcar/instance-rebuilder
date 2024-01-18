@@ -1,5 +1,5 @@
 # instance-rebuilder
-An example project to show how to build AOP proxies for managed beans
+An example project to show how to build AOP proxies for managed beans in Spring Java projects
 
 
 ## Introduction
