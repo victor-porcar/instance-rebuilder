@@ -1,4 +1,4 @@
-# instance-rebuilder using Spring AOP proxies
+# Autowired instance-rebuilder using Spring AOP proxies
 An example project to show how to build AOP proxies for managed beans in Spring Java projects
 
 
