@@ -1,5 +1,5 @@
-# Spring Autowired instance-rebuilder using Spring AOP proxies
-An example project to show how to build AOP proxies for managed beans in Spring Java projects
+# Spring Autowired instance rebuilder
+An example project to show how to rebuild autowired instances in Spring Java apps. It relies on AOP proxies for managed beans.
 
 
 ## Introduction
@@ -8,7 +8,7 @@ In the context of a Java Spring application, once the managed bean singletons ar
 
 This is how Java Spring applications are supposed to be and how they should work in all occasions.
 
-But sometimes the developer has to face scenarios that require tricks like changing in *execution time* the actual instance injected by Spring.
+But sometimes the developer has to face scenarios that require *dirty* tricks like changing in *execution time* the actual instance injected by Spring.
 
 For example
 
